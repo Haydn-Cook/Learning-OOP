@@ -5,6 +5,7 @@ with multiple fuctions do do diffrent things to the "Stock List". Eg. (add stock
 ## Index
 1 - Usage Guide
 2 - Credit
+
 ###1. Usage guide
 To run the file nothing special has to be done, just have the main .py file and the .txt file in the same directory
 and run the .py file in any ide that you use
